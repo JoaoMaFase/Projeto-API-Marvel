@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'Inter';
+  src: url('./font/Inter-VariableFont_slnt\,wght.ttf');
+}
+h1,p,a,label{
+  font-family: 'Inter';
+}
